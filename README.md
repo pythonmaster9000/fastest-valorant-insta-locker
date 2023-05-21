@@ -2,6 +2,7 @@
 Fastest Valorant Instalocker
 
 This instalocker works by directly sending requests to Valorant's API. It will beat any other locker, you should not get banned for using this but use at your own risk.
+(note: if you are not NA change the 'region' and 'shard' accordingly in the instalocker.py)
 
 # Instructions:
 #### 1. Make sure python is installed
